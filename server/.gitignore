@@ -64,8 +64,8 @@ venv/
 
 # add by custom
 py_client/
-db_operations/
 drivers/
 .database.ini
+.env
 Pipfile*
 NOTES.md
